@@ -7,7 +7,7 @@
     position: absolute;
     top: 0;
     left: 0;
-    background-image: url('{{ asset('ganyu.gif') }}');
+    background-image: url('https://i.ibb.co/4jd1BBm/ganyu.gif');
     background-size: cover;
     display: flex;
     z-index:99;

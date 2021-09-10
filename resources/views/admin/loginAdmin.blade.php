@@ -92,7 +92,7 @@
 <div id="in" style="height:101vh ;background-image:url('https://i.ytimg.com/vi/r2eFW_rrs3A/maxresdefault.jpg');background-size:cover" class="d-flex justify-content-center align-items-center">
     <div class="bg-light rounded-lg shadow p-4" style="width:400px">
         <div class="text-center font-weight-bold mb-2">
-          <img height="50px" src="{{ asset('genshin-logo.png') }}" alt="">
+          <img height="50px" src="https://i.ibb.co/HNt9VgZ/genshin-logo.png" alt="">
         </div>
         @if (session('er'))
             <div class="alert alert-danger">{{ session('er') }}</div>

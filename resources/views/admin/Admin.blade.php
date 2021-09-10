@@ -7,7 +7,7 @@
         position: absolute;
         top: 0;
         left: 0;
-        background-image: url('{{ asset('sogun.gif') }}');
+        background-image: url('https://i.ibb.co/VHwHczM/sogun.gif');
         background-size: cover;
         display: flex;
         z-index: 99;
@@ -75,12 +75,12 @@
 </style>
 <div id="xc" class="spi"></div>
     <div class="pl-3 " style="position: relative">
-        <img width="500px" src="{{ asset('s.png') }}" alt="" style="position: absolute; top:0;right:-15px">
+        <img width="500px" src="https://i.ibb.co/DD59wNb/s.png" alt="" style="position: absolute; top:0;right:-15px">
         <br>
         <p style="font-size:30px">Thông tin admin</p>
         <h5>Tên: {{ $ad->name }}</h5>
         <h5>Email: {{ $ad->email }}</h5>
-        <video style="max-width:500px" src="{{ asset('dlctct.mp4') }}" autoplay></video>
+        <iframe src="https://streamable.com/e/bw5s41?autoplay=1&nocontrols=1" width="560" height="315" frameborder="0" allowfullscreen allow="autoplay"></iframe>
     </div>
     
     {{-- <p>Đổi mật khẩu</p>

@@ -44,7 +44,7 @@
             </div>
               
               <div style="position: relative">
-                <img width="147px" src="{{ asset('ss.png') }}" alt="" style="position: absolute; top:0;left:0">
+                <img width="147px" src="https://i.ibb.co/Btw7vxy/ss.png" alt="" style="position: absolute; top:0;left:0">
               </div>
         </div>
         <div class="flex-grow-1">
